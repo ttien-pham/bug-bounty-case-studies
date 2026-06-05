@@ -8,7 +8,7 @@ The vulnerability allows unauthenticated attackers to obtain valid authenticatio
 
 Category:
 
-* OWASP A03: Injection
+* OWASP A05: Injection
 * NoSQL Injection
 * Authentication Bypass
 
